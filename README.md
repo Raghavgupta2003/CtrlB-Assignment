@@ -1,4 +1,12 @@
-# 📊 CtrlB Dashboard
+---
+
+## 🌐 Live Demo
+
+Check out the live version of the dashboard here:  
+🔗 [ctrl-b-assignment.vercel.app](https://ctrl-b-assignment.vercel.app/)
+
+---
+# 📊 CtrlB Dashboard 
 
 A lightweight, modular **React + Vite** dashboard featuring dynamic tables and charts using `react-chartjs-2`. Built for rapid development and data-driven UIs.
 
@@ -81,5 +89,5 @@ src/
 ## 👨‍💻 Author
 
 Built with ❤️ by **Raghav Gupta**
-[LinkedIn](https://www.linkedin.com/in/raghav-gupta2003/) • [GitHub](https://github.com/Raghavgupta2003)
+[LinkedIn](https://www.linkedin.com/in/raghav-gupta2003/) • [GitHub](https://github.com/Raghavgupta2003/CtrlB-Assignment)
 ---
